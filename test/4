@@ -1,0 +1,12 @@
+<FrameworkJobReport>
+<FrameworkError ExitStatus="7002" Type="Fatal Exception" >
+<![CDATA[
+An exception of category 'ConfigFileReadError' occurred while
+   [0] Processing the python configuration file named SiStripDQM_OfflineTkMap_Template_cfg_DB.py
+Exception Message:
+python encountered the error: <type 'exceptions.RuntimeError'>
+Unknown command
+
+]]>
+</FrameworkError>
+</FrameworkJobReport>

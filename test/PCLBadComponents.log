@@ -1,0 +1,97 @@
+%MSG-i SiStripQualityStatistics:  SiStripQualityStatistics:ssqualitystat  16-Apr-2015 08:53:19 CEST Run: 239622 Event: 1
+
+-----------------
+New IOV starting from run 239622 event 1 lumiBlock 1 time 1 chacheID 2
+-----------------
+
+-----------------
+Global Info
+-----------------
+BadComponent 	   Modules 	Fibers 	Apvs	Strips
+----------------------------------------------------------------
+Tracker:		0	0	0	0
+
+TIB:			0	0	0	0
+TID:			0	0	0	0
+TOB:			0	0	0	0
+TEC:			0	0	0	0
+
+TIB Layer 1 :		0	0	0	0
+TIB Layer 2 :		0	0	0	0
+TIB Layer 3 :		0	0	0	0
+TIB Layer 4 :		0	0	0	0
+
+TID+ Disk 1 :		0	0	0	0
+TID+ Disk 2 :		0	0	0	0
+TID+ Disk 3 :		0	0	0	0
+TID- Disk 1 :		0	0	0	0
+TID- Disk 2 :		0	0	0	0
+TID- Disk 3 :		0	0	0	0
+
+TOB Layer 1 :		0	0	0	0
+TOB Layer 2 :		0	0	0	0
+TOB Layer 3 :		0	0	0	0
+TOB Layer 4 :		0	0	0	0
+TOB Layer 5 :		0	0	0	0
+TOB Layer 6 :		0	0	0	0
+
+TEC+ Disk 1 :		0	0	0	0
+TEC+ Disk 2 :		0	0	0	0
+TEC+ Disk 3 :		0	0	0	0
+TEC+ Disk 4 :		0	0	0	0
+TEC+ Disk 5 :		0	0	0	0
+TEC+ Disk 6 :		0	0	0	0
+TEC+ Disk 7 :		0	0	0	0
+TEC+ Disk 8 :		0	0	0	0
+TEC+ Disk 9 :		0	0	0	0
+TEC- Disk 1 :		0	0	0	0
+TEC- Disk 2 :		0	0	0	0
+TEC- Disk 3 :		0	0	0	0
+TEC- Disk 4 :		0	0	0	0
+TEC- Disk 5 :		0	0	0	0
+TEC- Disk 6 :		0	0	0	0
+TEC- Disk 7 :		0	0	0	0
+TEC- Disk 8 :		0	0	0	0
+TEC- Disk 9 :		0	0	0	0
+
+----------------------------------------------------------------
+		   Detid  	Modules Fibers Apvs
+----------------------------------------------------------------
+TIB Layer 1 :
+TIB Layer 2 :
+TIB Layer 3 :
+TIB Layer 4 :
+
+TID+ Disk 1 :
+TID+ Disk 2 :
+TID+ Disk 3 :
+TID- Disk 1 :
+TID- Disk 2 :
+TID- Disk 3 :
+
+TOB Layer 1 :
+TOB Layer 2 :
+TOB Layer 3 :
+TOB Layer 4 :
+TOB Layer 5 :
+TOB Layer 6 :
+
+TEC+ Disk 1 :
+TEC+ Disk 2 :
+TEC+ Disk 3 :
+TEC+ Disk 4 :
+TEC+ Disk 5 :
+TEC+ Disk 6 :
+TEC+ Disk 7 :
+TEC+ Disk 8 :
+TEC+ Disk 9 :
+TEC- Disk 1 :
+TEC- Disk 2 :
+TEC- Disk 3 :
+TEC- Disk 4 :
+TEC- Disk 5 :
+TEC- Disk 6 :
+TEC- Disk 7 :
+TEC- Disk 8 :
+TEC- Disk 9 :
+%MSG
